@@ -1,6 +1,6 @@
-# Zumi App
+# Flutter Starter
 
-App for connecting Pet Parents with RVNs.
+App for flutter initialize.
 
 ### SDK used
 Flutter 3.0.3 • channel stable
